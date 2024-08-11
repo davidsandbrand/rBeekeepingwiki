@@ -32,7 +32,7 @@ We would be remiss at this stage to not point out that all of this is *extremely
 * They are not usually on the edge of the frames
 * Usually only a handful
     * Anywhere from 1-5 cells is normal, though there are often more than supersedures
-* [Here is an image of a cluster of 7 emergency cells](../../images/queen_cell_emergency-7_cells.jpg)
+* [Here is an image of a cluster of 7 emergency cells](images/queen_cell_emergency-7_cells.jpg)
 
 ## Supersedure Cells
 
